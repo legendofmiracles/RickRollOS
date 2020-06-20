@@ -3,6 +3,8 @@ A small kernel written in rust, that rickrolls the user upon boot, built upon th
 
 To run it on linux with QEMU, or just a .bin file:
 ```
+git clone https://github.com/alx365/RickRollOS/
+cd RickRollOS
 rustup target add thumbv7em-none-eabihf
 rustup override add nightly.
 cargo install cargo-xbuild
