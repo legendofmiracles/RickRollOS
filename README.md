@@ -13,3 +13,4 @@ rustup component add llvm-tools-preview
 cargo bootimage
 qemu-system-x86_64 -drive format=raw,file=target/x86_64-blog_os/debug/bootimage-os.bin
 ```
+You probably want to adjust the delay in the for loop in vga_buffer.rs, to match your needs.

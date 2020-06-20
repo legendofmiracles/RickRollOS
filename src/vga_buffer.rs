@@ -129,7 +129,7 @@ impl Writer {
         }
         self.clear_row(BUFFER_HEIGHT - 1);
         self.column_position = 0;
-        for _ in 0..10000 {}
+        for _ in 0..15000 {}
     }
 
     /// Clears a row by overwriting it with blank characters.
