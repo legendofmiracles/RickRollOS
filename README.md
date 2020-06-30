@@ -17,4 +17,5 @@ You probably want to adjust the delay in the for loop in vga_buffer.rs, to match
 
 Screenshot:
 https://i.imgur.com/nlEbZCq.png
+
 https://i.imgur.com/ivyNuy7.png
