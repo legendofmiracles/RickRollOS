@@ -1,5 +1,5 @@
 # RickRollOS
-A small kernel written in rust, that rickrolls the user upon boot, built upon this tutorial: https://os.phil-opp.com/
+A small kernel written in rust, that rickrolls the user upon boot, ~~built~~ copy pasted from this tutorial: https://os.phil-opp.com/
 
 To run it on linux with QEMU, or just a .bin file:
 ```
